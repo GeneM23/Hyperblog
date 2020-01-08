@@ -36,3 +36,9 @@ body{
 .logo{
     margin-right: 10px;
 }
+#gene-footer{
+    background-color: #777;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
