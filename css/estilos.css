@@ -13,6 +13,8 @@ body{
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
+    display: flex;
+    align-items: center;
 }
 #cabecera #tagline{
     padding: 0 0 0 1em;
@@ -30,4 +32,7 @@ body{
 }
 #container h1{
     font-size: 20px;
+}
+.logo{
+    margin-right: 10px;
 }
